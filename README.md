@@ -1,4 +1,4 @@
-# Rebuild me with the data
+# Rebuild me with this repo
 
 ## Genome (short read)
 Because the genome data is extremely large, connections are frequently interrupted. Therefore, please use a tool that allows you to resume the download.

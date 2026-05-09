@@ -1,8 +1,8 @@
 # Rebuild me with this repo
 
 ## Genome (short read)
-### FASTQ
 Because the genome data is extremely large, connections are frequently interrupted. Therefore, please use a tool that allows you to resume the download.
+### FASTQ
 ```
 wget -t 1000 --waitretry=240 https://mydata1248.opal.ne.jp/mydata/fastq_2022/NG1LY03M9M_1.fq.gz
 wget -t 1000 --waitretry=240 https://mydata1248.opal.ne.jp/mydata/fastq_2022/NG1LY03M9M_2.fq.gz
